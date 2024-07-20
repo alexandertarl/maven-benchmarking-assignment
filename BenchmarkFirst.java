@@ -20,7 +20,7 @@ import java.util.concurrent.TimeUnit;
 public class BenchmarkFirst {
 
     // run using
-    // java -jar target/benchmarks.jar -p fileName="C:\\Users\\c21061629\\PerformanceScalability\\JMHtest\\src\\main\\java\\org\\sample\\data.csv"
+    // java -jar target/benchmarks.jar -p fileName="C:\\Users\\(username)\\PerformanceScalability\\JMHtest\\src\\main\\java\\org\\sample\\data.csv"
 
     // test with different values of id
     // @Param({"1", "50", "100", "150", "200", "250", "500", "1000"})
